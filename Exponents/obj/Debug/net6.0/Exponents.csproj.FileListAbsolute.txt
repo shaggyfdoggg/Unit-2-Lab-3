@@ -1,0 +1,15 @@
+/Users/fsverellen/Projects/Exponents/Exponents/bin/Debug/net6.0/Exponents
+/Users/fsverellen/Projects/Exponents/Exponents/bin/Debug/net6.0/Exponents.deps.json
+/Users/fsverellen/Projects/Exponents/Exponents/bin/Debug/net6.0/Exponents.runtimeconfig.json
+/Users/fsverellen/Projects/Exponents/Exponents/bin/Debug/net6.0/Exponents.dll
+/Users/fsverellen/Projects/Exponents/Exponents/bin/Debug/net6.0/Exponents.pdb
+/Users/fsverellen/Projects/Exponents/Exponents/obj/Debug/net6.0/Exponents.csproj.AssemblyReference.cache
+/Users/fsverellen/Projects/Exponents/Exponents/obj/Debug/net6.0/Exponents.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fsverellen/Projects/Exponents/Exponents/obj/Debug/net6.0/Exponents.AssemblyInfoInputs.cache
+/Users/fsverellen/Projects/Exponents/Exponents/obj/Debug/net6.0/Exponents.AssemblyInfo.cs
+/Users/fsverellen/Projects/Exponents/Exponents/obj/Debug/net6.0/Exponents.csproj.CoreCompileInputs.cache
+/Users/fsverellen/Projects/Exponents/Exponents/obj/Debug/net6.0/Exponents.dll
+/Users/fsverellen/Projects/Exponents/Exponents/obj/Debug/net6.0/refint/Exponents.dll
+/Users/fsverellen/Projects/Exponents/Exponents/obj/Debug/net6.0/Exponents.pdb
+/Users/fsverellen/Projects/Exponents/Exponents/obj/Debug/net6.0/Exponents.genruntimeconfig.cache
+/Users/fsverellen/Projects/Exponents/Exponents/obj/Debug/net6.0/ref/Exponents.dll
